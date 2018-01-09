@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: lightgray;
+    color: black;
+}
+
+
+#title {
+    font-size: 64pt;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+#social{
+    font-size: 16pt;
+    margin-right: 10px;
+    float: left;
+    background: #952e83;
+    width: 250px;
+    height: 300px;
+}
+
+#chan{
+    font-size: 16pt;
+    margin-right: 10px;
+    float: left;
+    background: #488da9;
+    width: 250px;
+    height: 300px;    
+}
+
+#learning{
+    font-size: 16pt;
+    margin-right: 10px;
+    float: left;
+    background: #3abbd4;
+    width: 250px;
+    height: 300px;
+}
+
+#email{
+    font-size: 16pt;
+    margin-right: 10px;
+    float: left;
+    background: #cb73da;
+    width: 250px;
+    height: 300px;
+}
+
+#links {
+    font-size: 16pt;
+    width: 1050px;
+    margin: auto;
+}
+
+#search {
+    text-align: center;
+    height: 100px;
+    clear: both;
+    
+}
+a {
+    padding: 10px;
+    color: black
+}
+
+a:hover {
+    color: black;
+}
